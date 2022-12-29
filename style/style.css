@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+.titulo-principal{
+   font-size: 15rem;
+   display: flex;
+   justify-content: center;
+   padding-top: 5rem;
+   border-bottom: 1rem black solid;
+   background-color: rgb(58, 83, 83);
+   color: rgb(14, 14, 14);
+}
+
+body{
+    background-color: rgb(9, 73, 73);
+}
