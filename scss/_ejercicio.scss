@@ -1,0 +1,36 @@
+#container-ejercicio{
+    display: flex;
+    flex-direction: column;
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+
+}
+#container-ejercicio .contenedor-todo-ejercicio{
+margin-top: 8rem;
+margin-left: 1rem;
+
+}
+
+
+#container-ejercicio .text-explicacion-ejercicio{
+    font-size: 3rem;
+    color: rgb(0, 0, 0);
+    margin-bottom: 2rem;
+    width: 40%;
+    margin-left: 1rem;
+
+}
+
+#container-ejercicio .linkParaVerHistorial {
+    font-size: 35px;
+    text-decoration: none;
+    list-style: none;
+    color: orange;
+}
+
+#container-ejercicio .linkParaVerHistorial:hover {
+    color: black;
+    transition: .2s;
+}

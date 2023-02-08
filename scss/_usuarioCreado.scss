@@ -1,0 +1,26 @@
+.container-logeo2{
+    display: flex;
+    padding-top: 15rem;
+    margin-bottom: 12rem;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    h1{
+        font-size: 12rem;
+        color: orange;
+        
+    }
+}
+
+.containerBoton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2rem;
+    form{
+        input{
+            font-size: 100px;
+        }
+    }
+}
